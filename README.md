@@ -1,11 +1,9 @@
 # DS200
 
 ## How to run
-```
+
     go to the "code" directory
     python3 <name_of_file>.py
-````
-
 + The plots are generated in "plots" directory, which is at the ame level as "code".
 + The dataset is present in "data" directory,  which is at the ame level as "code".
 
