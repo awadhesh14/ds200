@@ -1,5 +1,11 @@
 # DS200
 
+##How to run
+    go to the "code" directory
+	python3 <name_of_file>.py
++ The plots are generated in "plots" directory, which is at the ame level as "code".
++ The dataset is present in "data" directory,  which is at the ame level as "code".
+
 ## Data Source
 
 The [data](https://data.gov.in/resources/variety-wise-daily-market-prices-mango-raw-ripe-2019) is taken from [data.gov.in](https://data.gov.in/).
@@ -26,3 +32,4 @@ The data refers to State-wise, market-wise, variety-wise prices of Mango (Raw-Ri
 +  [data.gov.in](https://data.gov.in/)
 + [Variety-wise Daily Market Prices of Mango (Raw-Ripe) 2019](https://data.gov.in/resources/variety-wise-daily-market-prices-mango-raw-ripe-2019)
 + [AGMARKNET Portal](http://agmarknet.gov.in)
+
